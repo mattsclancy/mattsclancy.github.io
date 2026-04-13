@@ -1,0 +1,15 @@
+title: mattsclancy
+description: Data and statistics work of public interest.
+url: "https://mattsclancy.github.io"
+baseurl: ""
+
+theme: minima
+
+minima:
+  date_format: "%B %-d, %Y"
+
+plugins:
+  - jekyll-feed
+
+author:
+  name: Matt Clancy
