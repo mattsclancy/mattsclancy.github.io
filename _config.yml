@@ -4,6 +4,7 @@ url: "https://mattsclancy.github.io"
 baseurl: ""
 
 theme: minima
+future: true
 
 minima:
   date_format: "%B %-d, %Y"
