@@ -5,6 +5,7 @@ baseurl: ""
 
 theme: minima
 future: true
+permalink: /:year/:month/:day/:title:output_ext
 
 minima:
   date_format: "%B %-d, %Y"
