@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Happiness is Reality Minus Expectations"
-subtitle: "How rising reference points have cancelled out fifty years of income growth"
+title: "Have our expectations outpaced economic growth?"
+subtitle: "Using GSS data to impute income levels where people begin to perceive their financial situation as bad"
 date: 2026-04-12
 categories: [data, economics, wellbeing]
 ---
@@ -47,6 +47,32 @@ The second chart uses `satfin`. For each year, the red line shows the equivalise
 *Income needed for less than a 25% chance of financial dissatisfaction, vs. actual median equivalised household income. Red shading indicates years in which the median household falls below the imputed threshold income.*
 
 Between the 1970s and mid-2000s, the two lines mostly rise together at a similar rate. One interpretation is that, as incomes rise, the level of income at which you become satisfied with your level of income also rises. In other words, there is a kind of hedonic treadmill effect, where greater prosperity leads to greater expectations. In the mid-2000s, this relationship breaks down though, and we start to see large swings in the imputed income level at which a respondent starts to report they are not at all satisfied with their financial situation. Following the global financial crisis, the level of income where people start to report dissatisfaction is well above the median income for survey respondents. This reverses for a period, but in the latest data we have, once again the income level at which people begin to report dissatisfaction with their income is way above the median reported income.
+
+---
+
+## Under the hood: the logistic regression
+                                                                                                                        
+  For each survey year, the threshold is estimated by fitting a logistic regression
+  to the raw survey responses and reading off where the fitted curve crosses 25%.                                       
+  The charts below show what that looks like for six anchor years.               
+                                                                                                                        
+  Each dot is one income bracket — its horizontal position is the bracket midpoint                                      
+  (adjusted for household size), its vertical position is the weighted share of                                         
+  respondents in that bracket who reported the bad outcome, and its size is                                             
+  proportional to the total survey weight in that bracket. The red curve is the                                         
+  fitted logistic regression; the dashed line marks the 25% threshold income.                                           
+                                                                                                                        
+  **Financial dissatisfaction (`satfin`)**                                                                              
+                                                                                                                        
+  ![Logistic regression curves for satfin across six anchor years, showing the                                          
+  share of respondents reporting "not satisfied at all" by income bracket, with                                         
+  the fitted logistic curve and 25% threshold marked.](/assets/images/satfin_curves.png)
+                                                                                                                        
+  **Relative standing (`finrela`)**                                                                                     
+                                                                                                                        
+  ![Logistic regression curves for finrela across six anchor years, showing the                                         
+  share of respondents reporting "below average" by income bracket, with the   
+  fitted logistic curve and 25% threshold marked.](/assets/images/finrela_curves.png)
 
 ---
 
