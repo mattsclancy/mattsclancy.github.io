@@ -6,7 +6,7 @@ date: 2026-04-12
 categories: [data, economics, wellbeing]
 ---
 
-Self-reported happiness and well-being has noticeably declined in the United States, and was near all-time lows as of 2024-2025. This is despite the fact that economic statistics are reasonably healthy - certainly not near all-time lows. Indeed, the country is by some measures richer than it has ever been (and much of that wealth is broadly shared).
+Self-reported happiness and well-being has noticeably declined in the United States, and was [near all-time lows as of 2024-2025](https://mattsclancy.github.io/2026/04/19/us-happiness-wellbeing-trends.html). This is despite the fact that economic statistics are reasonably healthy - certainly not near all-time lows. Indeed, the country is by some measures richer than it has ever been (and much of that wealth is broadly shared).
 
 So what's going on?
 
