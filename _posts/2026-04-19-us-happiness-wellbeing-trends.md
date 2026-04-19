@@ -56,7 +56,7 @@ The GSS GoodLife question has been asked intermittently since 1987. It has bounc
 
 ## Reproducing this analysis
 
-The full code is in the [us-happiness-wellbeing-trends](#) repository.
+The full code is in the [us-happiness-wellbeing-trends](https://github.com/mattsclancy/us-happiness-wellbeing-trends) repository.
 
 ### Data
 
