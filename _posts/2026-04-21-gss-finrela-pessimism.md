@@ -55,4 +55,6 @@ Output is saved to `output/finrela_percentile_bands.png`.
 
 ---
 
+*Related: [Have our expectations outpaced economic growth?](https://mattsclancy.github.io/2026/04/12/happiness-is-reality-minus-expectations.html) uses the same GSS data to estimate the income level at which people begin to report financial dissatisfaction, and finds a similar post-2008 divergence from median income.*
+
 *Data: General Social Survey, NORC at the University of Chicago, 1972–2024. Income adjusted to constant dollars and equivalised for household size (OECD square-root scale). Survey weights (wtssps) applied throughout.*

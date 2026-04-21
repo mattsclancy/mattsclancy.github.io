@@ -116,4 +116,6 @@ Output is saved to `output/threshold/threshold_adjusted.png` and `output/finrela
 
 ---
 
+*Related: [Feeling Below Average at the Median](https://mattsclancy.github.io/2026/04/21/gss-finrela-pessimism.html) takes a complementary approach — instead of modelling a threshold, it directly measures the share of median-income respondents who report feeling below average, and finds the same post-2008 deterioration.*
+
 *Data: General Social Survey, NORC at the University of Chicago, 1972–2024. Income adjusted to constant dollars and equivalised for household size (OECD square-root scale). Survey weights (wtssps) applied throughout.*
