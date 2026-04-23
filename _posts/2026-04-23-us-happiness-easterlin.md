@@ -69,3 +69,9 @@ python3 us_analysis.py
 ```
 
 Output is saved to `output/`.
+
+---
+
+*Related: [Income and Happiness Across 156 Countries](https://mattsclancy.github.io/2026/04/22/easterlin-paradox.html) presents the full international evidence — cross-sectional scatter, within-country trendlines, and two-way fixed effects — from which the US analysis here draws.*
+
+*Related: [US happiness has fallen to record lows](https://mattsclancy.github.io/2026/04/19/us-happiness-wellbeing-trends.html) documents the US happiness decline in detail using GSS, World Happiness Report, and Gallup data spanning 1972–2025.*

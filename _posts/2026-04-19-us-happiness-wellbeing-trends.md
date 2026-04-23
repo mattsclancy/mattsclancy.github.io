@@ -87,4 +87,10 @@ Run all scripts from the project root. Output is saved to `output/`.
 
 ---
 
+*Related: [Have our expectations outpaced economic growth?](https://mattsclancy.github.io/2026/04/12/happiness-is-reality-minus-expectations.html) uses fifty years of GSS data to test whether rising income expectations — rather than falling incomes — explain the happiness decline, finding that the income level at which Americans feel financially satisfied has grown faster than median income.*
+
+*Related: [Feeling Below Average at the Median](https://mattsclancy.github.io/2026/04/21/gss-finrela-pessimism.html) shows that the share of median-income Americans rating their family income as below average has roughly doubled since the 1970s.*
+
+*Related: [The US Happiness Decline in International Context](https://mattsclancy.github.io/2026/04/23/us-happiness-easterlin.html) puts the US within-country income–happiness relationship alongside 147 other countries, and tests whether the decline reflects mean reversion to a long-run cross-sectional trend.*
+
 *Data: General Social Survey, NORC at the University of Chicago, 1972–2024 (wtssps weights applied throughout); World Happiness Report 2026, Figure 2.1; Gallup/Wellbeing Index, 2009–2025.*
