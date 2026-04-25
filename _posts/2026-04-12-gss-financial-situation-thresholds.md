@@ -120,4 +120,6 @@ Output is saved to `output/threshold/threshold_adjusted.png` and `output/finrela
 
 *Related: [US happiness has fallen to record lows](https://mattsclancy.github.io/2026/04/19/us-happiness-wellbeing-trends.html) documents the broader decline in American wellbeing across the GSS happiness question, the World Happiness Report Cantril ladder, and Gallup's wellbeing index.*
 
+*Related: [Who Is Unhappy in America?](https://mattsclancy.github.io/2026/04/24/who-is-unhappy-in-america.html) breaks the `finrela` and `satfin` trends down by age group, showing that young Americans have driven the long-run deterioration in perceived relative financial position.*
+
 *Data: General Social Survey, NORC at the University of Chicago, 1972–2024. Income adjusted to constant dollars and equivalised for household size (OECD square-root scale). Survey weights (wtssps) applied throughout.*

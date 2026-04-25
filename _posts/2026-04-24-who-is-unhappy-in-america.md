@@ -49,3 +49,11 @@ All estimates use the General Social Survey (GSS), weighted with `wtssps` (post-
 ## Reproducing this analysis
 
 Data were downloaded from [GSS Explorer](https://gssdataexplorer.norc.org/). Code is available at [mattsclancy/gss-happiness-by-age](https://github.com/mattsclancy/gss-happiness-by-age).
+
+---
+
+*Related: [US happiness has fallen to record lows](https://mattsclancy.github.io/2026/04/19/us-happiness-wellbeing-trends.html) documents the aggregate decline in American wellbeing across the GSS, the World Happiness Report, and Gallup, providing the broader context for the age-group breakdowns here.*
+
+*Related: [Have our expectations outpaced economic growth?](https://mattsclancy.github.io/2026/04/12/happiness-is-reality-minus-expectations.html) uses the same `finrela` and `satfin` variables to estimate the income level at which Americans begin to feel financially dissatisfied, and finds a similar post-2008 deterioration.*
+
+*Related: [Feeling Below Average at the Median](https://mattsclancy.github.io/2026/04/21/gss-finrela-pessimism.html) tracks the share of median-income Americans who rate their family income as below average, broken down by income band rather than age.*
