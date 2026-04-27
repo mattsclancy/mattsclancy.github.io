@@ -82,3 +82,5 @@ Output is saved to `robustness_4period/output/`.
 *Related: [The US Happiness Decline in International Context](https://mattsclancy.github.io/2026/04/23/us-happiness-easterlin.html) applies the same five-period framework to the US specifically, placing its negative within-country slope in the distribution of 148 countries and testing whether it reflects mean reversion to the long-run cross-sectional trend.*
 
 *Related: [Does Growth Itself Raise Happiness?](https://mattsclancy.github.io/2026/04/26/economic-growth-and-happiness.html) extends this analysis by asking whether the *pace* of GDP growth predicts life satisfaction beyond the income level it reaches, across international cross-sections and US Census divisions.*
+
+*Related: [A Lifetime Wellbeing Index: Happiness Weighted by Life Expectancy](https://mattsclancy.github.io/2026/04/27/total-lifetime-wellbeing.html) extends the same five-period panel by multiplying the Cantril score by life expectancy at birth, examining how the cross-country and within-country income relationships change under the composite index.*

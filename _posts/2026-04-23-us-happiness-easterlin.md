@@ -77,3 +77,5 @@ Output is saved to `output/`.
 *Related: [US happiness has fallen to record lows](https://mattsclancy.github.io/2026/04/19/us-happiness-wellbeing-trends.html) documents the US happiness decline in detail using GSS, World Happiness Report, and Gallup data spanning 1972–2025.*
 
 *Related: [Who Is Unhappy in America?](https://mattsclancy.github.io/2026/04/24/who-is-unhappy-in-america.html) breaks the US happiness decline down by age group, showing that young Americans (18–34) have experienced the sharpest fall and now report happiness well below both older cohorts and their own historical levels.*
+
+*Related: [A Lifetime Wellbeing Index: Happiness Weighted by Life Expectancy](https://mattsclancy.github.io/2026/04/27/total-lifetime-wellbeing.html) extends the same panel to a composite index (Cantril × life expectancy), placing the US at the 13th percentile of the within-country lifetime wellbeing slope distribution — slightly further left than its 18th-percentile position on the Cantril slope alone.*
