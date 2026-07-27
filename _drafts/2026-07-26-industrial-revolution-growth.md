@@ -4,6 +4,12 @@ title: "Is the Industrial Revolution an Existence Proof for 10× AI Growth?"
 subtitle: "Historical growth rates from the Maddison Project Database suggest it is not"
 date: 2026-07-26
 categories: [data, economics, growth]
+draft: true
+---
+
+> **This draft was superseded by the revised post published 2026-07-27.**
+> The main changes: the revised version uses geometric (compound) means throughout rather than arithmetic means, narrows the analogue country selection to 8 countries more tightly matched to pre-IR UK, and restructures the argument around four charts instead of the six here. See [`2026-07-27-industrial-revolution-growth.md`](../posts/2026-07-27-industrial-revolution-growth) for the current version.
+
 ---
 
 Some AI optimists cite the Industrial Revolution as a precedent for rapid accelerations in growth, since the UK managed roughly 17 times faster compound growth after the IR than before. But I think this framing is misleading.
