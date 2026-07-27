@@ -6,7 +6,7 @@ date: 2026-07-27
 categories: [data, economics, growth]
 ---
 
-One line of evidence that AI might lead to explosive economic growth is the precedent set by the Industrial Revolution. For hundreds of years — 1252 to 1652, to be precise — the average annual growth rate of per capita real GDP in the UK was 0.30%. It then began to accelerate, settling into a new steady state of around 1.05% per year by 1850, which it held until 1913. In other words, growth accelerated by roughly 15 times before, in compound terms; the argument goes that this should make us humble about predicting it can't happen again, and perhaps we should be open to accelerations of 10 times or more.
+One line of evidence that AI might lead to explosive economic growth is the precedent set by the Industrial Revolution. For hundreds of years — 1252 to 1652, to be precise — the compound annual growth rate of per capita real GDP in the UK was around 0.07%. It then began to accelerate, settling into a new compound rate of around 1.02% per year by 1850, which it held until 1913. In other words, growth accelerated by roughly 15 times before; the argument goes that this should make us humble about predicting it can't happen again, and perhaps we should be open to accelerations of 10 times or more.
 
 I think this argument is overstated and the analogy between a 10× acceleration today and the acceleration that occurred during the Industrial Revolution is misleading. The goal of the first part of this post is to provide evidence for two claims:
 
