@@ -122,4 +122,6 @@ Output is saved to `output/threshold/threshold_adjusted.png` and `output/finrela
 
 *Related: [Who Is Unhappy in America?](https://mattsclancy.github.io/2026/04/24/who-is-unhappy-in-america.html) breaks the `finrela` and `satfin` trends down by age group, showing that young Americans have driven the long-run deterioration in perceived relative financial position.*
 
+*Related: [Does the Journalism Recession Make Economic News More Negative?](https://mattsclancy.github.io/2026/08/26/journalism-recession-news-sentiment.html) tests a specific candidate mechanism for the perception-reality gap explored here — whether economic news itself has grown more negative as the newspaper industry's own employment collapsed — and finds a suggestive but fragile relationship, limited by the lack of geographic sentiment data.*
+
 *Data: General Social Survey, NORC at the University of Chicago, 1972–2024. Income adjusted to constant dollars and equivalised for household size (OECD square-root scale). Survey weights (wtssps) applied throughout.*
