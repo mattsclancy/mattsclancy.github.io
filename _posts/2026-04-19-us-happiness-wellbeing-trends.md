@@ -6,6 +6,8 @@ date: 2026-04-19
 categories: [data, wellbeing, happiness]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 American happiness is near all-time lows. This isn't a new observation, but it is one worth documenting carefully, because the evidence is stronger than any single survey or question wording can convey.
 
 Across a few surveys, ways of asking, and current and future assessments of wellbeing, the picture is consistent: Americans report lower life satisfaction today than they did in the early 2000s, and well below long-run trends that are documented in the General Social Survey. COVID made it dramatically worse. Various measures of optimism about the future show similar trends.
@@ -96,5 +98,7 @@ Run all scripts from the project root. Output is saved to `output/`.
 *Related: [Who Is Unhappy in America?](https://mattsclancy.github.io/2026/04/24/who-is-unhappy-in-america.html) breaks the aggregate happiness decline down by age group (18–34, 35–54, 55+), showing that the post-2010 divergence has hit young Americans hardest.*
 
 *Related: [Does the Journalism Recession Make Economic News More Negative?](https://mattsclancy.github.io/2026/08/26/journalism-recession-news-sentiment.html) looks at one possible input into the decline documented here — whether economic news has grown more negative as newspaper employment collapsed — and finds a weak, fragile relationship that national data can't fully pin down.*
+
+*Related: [Income, Happiness, and Trust in Government Since 2016](https://mattsclancy.github.io/2026/08/30/gss-income-happiness-divergence.html) decomposes the post-2016 acceleration in unhappiness documented here by income group, finding it is driven more by the bottom of the distribution than the top, even as the top's own trend reverses direction.*
 
 *Data: General Social Survey, NORC at the University of Chicago, 1972–2024 (wtssps weights applied throughout); World Happiness Report 2026, Figure 2.1; Gallup/Wellbeing Index, 2009–2025.*

@@ -6,6 +6,8 @@ date: 2026-04-23
 categories: [data, economics, wellbeing]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 The United States is one of 60 countries (out of 148) whose life satisfaction fell as income grew between 2010 and 2024, placing its within-country slope at the 18th percentile of the international distribution. The US is not an outlier in the cross-sectional sense — at its income level, its reported wellbeing is close to what the global trend predicts. And while its negative within-country slope is unusual, a test for mean reversion suggests the overall pattern across countries is one of persistence rather than reversion: countries above the cross-sectional happiness–income trend in 2010–15 tended to remain above it in 2016–24. The United States, which was elevated relative to trend in the first half, followed this pattern broadly — it remained above the trend in the second half, having drifted partway toward it.
 
 This post draws on the same five-period panel described in [Income and Happiness Across 156 Countries](https://mattsclancy.github.io/2026/04/22/easterlin-paradox.html): Cantril ladder scores from the World Happiness Report at years 2012, 2015, 2018, 2021, and 2024, matched to geometric-mean GDP per capita over the corresponding three-year windows.

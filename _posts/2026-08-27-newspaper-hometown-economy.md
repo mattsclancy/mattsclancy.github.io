@@ -6,6 +6,8 @@ date: 2026-08-27
 categories: [data, economics, media]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 [A previous post](/2026/08/26/journalism-recession-news-sentiment.html) found that national newspaper employment decline is weakly associated with more negative national economic-news sentiment — but a national time series can't separate a real "messenger class" effect (journalists' own industry distress bleeding into how they cover the economy) from two unrelated trends that happen to share a downward slope. This follow-up tests the idea with actual geographic variation: outlet-level economic-sentiment measures for 21 U.S. newspapers, matched to each paper's own state economy and its own state's newspaper-employment market, 1978-2015.
 
 One thing to flag up front: "economic sentiment" here isn't cleanly *national*. The underlying index scores every economy-related article a newspaper ran, local and national alike, and nothing in the data lets us separate the two — a local paper running more stories about its own city's layoffs will look more "concerned" by this measure whether or not its coverage of the national economy specifically changed at all. This post calls it economic sentiment throughout for that reason, and comes back to what it means for interpretation below.

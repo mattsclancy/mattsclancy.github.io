@@ -6,6 +6,8 @@ date: 2026-04-21
 categories: [data, economics, wellbeing]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 Among Americans right at the middle of the household income distribution, the share reporting that their family income is "below average" or "far below average" has roughly doubled since the early 1970s — from around 15% to around 30%. Most of this increase occurred after 2000. Among Americans in the upper half of the income distribution, the same share has been essentially flat across five decades, holding between 8 and 11%.
 
 The chart below shows both trends. The GSS `finrela` question asks respondents to place their family income relative to American families in general, on a scale from "far below average" to "far above average." Respondents are divided into two bands each year based on their HH-equivalised household income: those in the 45th–55th percentile (the median band, in blue) and those above the 55th percentile (in orange).
@@ -60,5 +62,7 @@ Output is saved to `output/finrela_percentile_bands.png`.
 *Related: [US happiness has fallen to record lows](https://mattsclancy.github.io/2026/04/19/us-happiness-wellbeing-trends.html) documents the broader decline in American wellbeing across the GSS happiness question, the World Happiness Report Cantril ladder, and Gallup's wellbeing index.*
 
 *Related: [Who Is Unhappy in America?](https://mattsclancy.github.io/2026/04/24/who-is-unhappy-in-america.html) breaks the `finrela` trend down by age group rather than income band, finding that young Americans have become steadily more pessimistic about their relative financial position since the 1970s while older Americans have moved in the opposite direction.*
+
+*Related: [Income, Happiness, and Trust in Government Since 2016](https://mattsclancy.github.io/2026/08/30/gss-income-happiness-divergence.html) tests whether the income gap in happiness and institutional trust closed after 2016, as a political-realignment hypothesis would predict, and finds it widened further rather than closing.*
 
 *Data: General Social Survey, NORC at the University of Chicago, 1972–2024. Income adjusted to constant dollars and equivalised for household size (OECD square-root scale). Survey weights (wtssps) applied throughout.*

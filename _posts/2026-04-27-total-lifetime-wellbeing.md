@@ -6,6 +6,8 @@ date: 2026-04-27
 categories: [data, economics, wellbeing]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 The Cantril ladder captures how satisfied people report feeling with their lives right now, but it says nothing about how long they live. A simple composite index — Cantril score multiplied by life expectancy at birth — adds that second dimension. This post constructs that index, plots it against GDP per capita, and examines within-country trends across the same five-period panel used in [Income and Happiness Across 156 Countries](https://mattsclancy.github.io/2026/04/22/easterlin-paradox.html). A second version of the index replaces total life expectancy with healthy life expectancy (HALE), which excludes years lived with severe illness or disability.
 
 ## The index and what it measures

@@ -6,6 +6,8 @@ date: 2026-05-24
 categories: [data, economics, labor]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 The number of positions advertised on the AEA's Job Openings for Economists (JOE) board has declined in four of the six years since its 2018 peak. The 2025 academic year ended with 1,122 postings — near the COVID-year low of 1,074 recorded in 2020.
 
 ## Annual postings, 2015–2025

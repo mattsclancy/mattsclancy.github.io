@@ -6,6 +6,8 @@ date: 2026-04-22
 categories: [data, economics, wellbeing]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 Countries with higher GDP per capita report substantially higher life satisfaction: a doubling of income per head is associated with roughly half a point more on the 0–10 Cantril ladder. That cross-sectional relationship holds within countries over time as well. A two-way fixed effects regression controlling for permanent country differences and global period-to-period shifts yields a coefficient of 1.34 (clustered SE = 0.36) — larger, not smaller, than the pooled cross-sectional estimate of 0.78 (SE = 0.02).
 
 The analysis uses 733 country-period observations from 156 countries across five non-overlapping periods spanning 2010–2024.

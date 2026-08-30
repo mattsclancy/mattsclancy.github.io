@@ -6,6 +6,8 @@ date: 2026-04-24
 categories: [happiness, gss]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 While Americans of all ages have become less happy since the 2010s (and especially since 2020), young Americans — those 35 and under — have long reported lower happiness than their elders and the gap has widened since 2010. At the same time, young people's perception of their relative financial position has deteriorated over the entire post-war period, reversing a pattern from the 1970s in which they were the most financially optimistic age group. Financial satisfaction, by contrast, has moved more in tandem across age groups, tracking the business cycle rather than any age-specific trend.
 
 ## Who these groups are
@@ -57,3 +59,5 @@ Data were downloaded from [GSS Explorer](https://gssdataexplorer.norc.org/). Cod
 *Related: [Have our expectations outpaced economic growth?](https://mattsclancy.github.io/2026/04/12/happiness-is-reality-minus-expectations.html) uses the same `finrela` and `satfin` variables to estimate the income level at which Americans begin to feel financially dissatisfied, and finds a similar post-2008 deterioration.*
 
 *Related: [Feeling Below Average at the Median](https://mattsclancy.github.io/2026/04/21/gss-finrela-pessimism.html) tracks the share of median-income Americans who rate their family income as below average, broken down by income band rather than age.*
+
+*Related: [Income, Happiness, and Trust in Government Since 2016](https://mattsclancy.github.io/2026/08/30/gss-income-happiness-divergence.html) finds the same widening-gap-that-accelerates-after-2016 pattern by income quartile instead of age, and shows trust in government and the press moving in the opposite direction between income groups.*

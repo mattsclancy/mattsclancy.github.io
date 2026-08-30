@@ -6,6 +6,8 @@ date: 2026-08-26
 categories: [data, economics, media]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 Since 1975, U.S. newspaper publishing employment rose from 376,000 to a peak of 474,000 in 1988-89, then collapsed to 82,000 by 2025 — an 83% decline from peak, even as total U.S. private employment nearly tripled over the same stretch. The "messenger class" hypothesis asks whether this shows up in the news itself: do the people producing economic coverage write more negatively about the economy when their own industry is unusually distressed, separate from how the broader economy is doing?
 
 With macro conditions held constant, the answer is weakly yes for one way of measuring "distressed," and no for another. The relationship is suggestive rather than conclusive, and the biggest reason is a data limitation rather than a null result: no publicly available dataset breaks U.S. economic-news sentiment down by newspaper or region, which is what a real test of this hypothesis needs.

@@ -6,6 +6,8 @@ date: 2026-04-26
 categories: [data, economics, wellbeing]
 ---
 
+*Drafted by Claude Code from an analysis I directed and reviewed.*
+
 Income level is a powerful predictor of life satisfaction: across countries, a doubling of GDP per capita is associated with roughly half a point more on the 0–10 Cantril ladder, and the relationship holds within countries over time as well — see [Income and Happiness Across 156 Countries](https://mattsclancy.github.io/2026/04/22/easterlin-paradox.html). But does the *pace* of economic growth matter for happiness, above and beyond the level of income it eventually delivers? We might believe, for example, that faster growth is associated with optimism about the future, and this leads to happiness. Or we might believe that faster growth leads to less happiness, because it is disruptive to the comfortable status quo. This post asks whether countries or regions that grew faster also report higher life satisfaction once income level is held constant.
 
 ## Method
