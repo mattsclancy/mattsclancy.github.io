@@ -90,3 +90,5 @@ QCEW and FRED data are downloaded by script; the SF Fed sentiment file and its r
 *Related: [Have our expectations outpaced economic growth?](https://mattsclancy.github.io/2026/04/12/happiness-is-reality-minus-expectations.html) asks the broader question this post's mechanism speaks to: why measured wellbeing has diverged from measured economic conditions, using GSS data to show that the income level at which Americans report financial distress has risen faster than actual income since the mid-2000s.*
 
 *Related: [US happiness has fallen to record lows](https://mattsclancy.github.io/2026/04/19/us-happiness-wellbeing-trends.html) documents the wellbeing decline that a more negative news environment could plausibly be one input into, across the GSS, World Happiness Report, and Gallup.*
+
+*Related: [Can policy uncertainty explain the vibecession?](https://mattsclancy.github.io/2026/09/01/vibecession-policy-uncertainty.html) uses a newspaper-based policy uncertainty index to help explain consumer sentiment, approaching the news environment from the demand side rather than the supply side studied here.*

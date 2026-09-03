@@ -102,3 +102,5 @@ Run all scripts from the project root. Output is saved to `output/`.
 *Related: [Income, Happiness, and Trust in Government Since 2016](https://mattsclancy.github.io/2026/08/30/gss-income-happiness-divergence.html) decomposes the post-2016 acceleration in unhappiness documented here by income group, finding it is driven more by the bottom of the distribution than the top, even as the top's own trend reverses direction.*
 
 *Data: General Social Survey, NORC at the University of Chicago, 1972–2024 (wtssps weights applied throughout); World Happiness Report 2026, Figure 2.1; Gallup/Wellbeing Index, 2009–2025.*
+
+*Related: [Can policy uncertainty explain the vibecession?](https://mattsclancy.github.io/2026/09/01/vibecession-policy-uncertainty.html) examines one component of this decline closely: how much of consumer sentiment's post-2020 shortfall against economic fundamentals is explained by policy uncertainty, and how much by a change in survey mode.*

@@ -81,3 +81,5 @@ Code is available at [mattsclancy/gss-income-happiness-divergence](https://githu
 *Related: [Feeling Below Average at the Median](https://mattsclancy.github.io/2026/04/21/gss-finrela-pessimism.html) tracks the same subjective-income pessimism used here, broken down by income band instead of by top/bottom quartile.*
 
 *Related: [US happiness has fallen to record lows](https://mattsclancy.github.io/2026/04/19/us-happiness-wellbeing-trends.html) documents the aggregate decline that this post decomposes by income group.*
+
+*Related: [Can policy uncertainty explain the vibecession?](https://mattsclancy.github.io/2026/09/01/vibecession-policy-uncertainty.html) finds the share of Americans saying the government is doing a poor job on economic policy rising from a 1985-2019 average of 30% to 65% in 2025-26 — a different window onto the institutional-trust shift traced here.*

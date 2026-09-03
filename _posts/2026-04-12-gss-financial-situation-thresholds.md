@@ -127,3 +127,5 @@ Output is saved to `output/threshold/threshold_adjusted.png` and `output/finrela
 *Related: [Does the Journalism Recession Make Economic News More Negative?](https://mattsclancy.github.io/2026/08/26/journalism-recession-news-sentiment.html) tests a specific candidate mechanism for the perception-reality gap explored here — whether economic news itself has grown more negative as the newspaper industry's own employment collapsed — and finds a suggestive but fragile relationship, limited by the lack of geographic sentiment data.*
 
 *Data: General Social Survey, NORC at the University of Chicago, 1972–2024. Income adjusted to constant dollars and equivalised for household size (OECD square-root scale). Survey weights (wtssps) applied throughout.*
+
+*Related: [Can policy uncertainty explain the vibecession?](https://mattsclancy.github.io/2026/09/01/vibecession-policy-uncertainty.html) takes up the same divergence with macro rather than survey data, asking how much of the gap between consumer sentiment and economic fundamentals is explained by policy uncertainty and by a 2024 change in how the sentiment survey was conducted.*
